@@ -8,6 +8,6 @@ package project;
  *
  * @author xuank
  */
-public interface ITinhTien {
+public interface IXe {
     public abstract double TinhTien();
 }
